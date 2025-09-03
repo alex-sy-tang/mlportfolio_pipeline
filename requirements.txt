@@ -1,0 +1,9 @@
+apache-airflow-providers-postgres==5.5.0
+requests
+pandas
+numpy
+scikit-learn
+dotenv
+psycopg2
+# numpy==1.26.4
+# scikit-learn==1.2.2
